@@ -68,8 +68,15 @@ theme: clean-blog
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: git
-  repo: https://github.com/rizalwildan/rizalwildan.github.io.git
+  type: ftpsync
+  host: 103.23.22.251
+  user: rizalwildan
+  pass: R4z0r1zm3
+  remote: httpdocs
+  port: 21
+  ignore: 
+  connections: 1
+  verbose: true
 
 admin:
   username: rizalwildan

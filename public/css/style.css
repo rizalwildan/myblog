@@ -479,7 +479,7 @@ article .container .row blockquote footer {
 }
 article .container .row blockquote footer cite:before {
   content: '—';
-  color: #ccc;
+  color: #666;
   padding: 0 0.5em;
 }
 article .container .row .pullquote {

@@ -1,14 +1,14 @@
 title: Apa Itu Version Control dan Apa Itu Git?
-subtitle: For almost all software projects, the source code is like the crown jewels - a precious asset whose value must be protected.
+subtitle: >-
+  For almost all software projects, the source code is like the crown jewels - a
+  precious asset whose value must be protected.
 author: rizalwildan
 tags:
-  - Git
-  - VCS
-categories:
   - Learn Git
-date: 2016-10-26 10:41:00
+categories: []
 cover: /img/contact-bg.jpg
 share_cover: /img/contact-bg.jpg
+date: 2016-10-26 10:41:00
 ---
 #### Tentang Version Control
 ![Version Control](https://www.atlassian.com/git/images/tutorials/getting-started/what-is-version-control/hero.svg)
